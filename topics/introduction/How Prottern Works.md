@@ -1,0 +1,10 @@
+
+## How prottern Works
+
+Prottern basically manipulates templates created by the user.
+
+templates are [metadata](https://en.wikipedia.org/wiki/Metadata) to generate files, directories and execute console commands.
+
+The user can save a template from an directory and utilise that to generate projects from scratch or a piece of an existing 
+projects.
+***
