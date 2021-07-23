@@ -1,0 +1,7 @@
+## get
+
+This command is used to get public third party templates.
+
+```command
+$ prottern get <template-name>
+```

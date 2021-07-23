@@ -1,0 +1,13 @@
+## save
+
+The **save** command saves a template in the repository. 
+
+It takes two parameters:
+
+The 1st parameter receives the path of the project's root directory that will be used as a reference for generating the template.
+
+The 2nd parameter receives the name of the template.
+
+```command
+$ prottern save <directory-path> <template-name>
+```

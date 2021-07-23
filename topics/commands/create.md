@@ -1,0 +1,11 @@
+## create
+
+The **create** command generates a project from a saved template. It takes two parameters:
+
+- The 1st parameter receives the name of an existing template on the repository
+
+- The 2nd parameter receives the path of the output directory where the template will be generated.
+
+```command
+$ prottern create <template-name> <directory-path>
+```

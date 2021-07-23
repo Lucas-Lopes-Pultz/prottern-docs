@@ -1,0 +1,11 @@
+## login
+
+This command is used for authenticate your user account.
+
+To authenticate your account type:
+
+```command
+$ prottern login
+```
+
+A login form will appear requesting your username and password.

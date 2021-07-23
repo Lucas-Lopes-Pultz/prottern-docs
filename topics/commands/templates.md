@@ -1,0 +1,24 @@
+## templates
+
+The **templates** command lists all the templates in your local repository.
+
+For example:
+
+- I have three templates saved in my repository, with the names of: project-web, project-mobile, project-desktop.
+
+- When typing the templates command, the three templates will appear in my terminal.
+
+```command
+$ prottern templates
+```
+
+output:
+
+```
+>> Local templates
+   | project-site
+   | project-mobile
+   | desktop-project
+
+>> Remote templates
+```

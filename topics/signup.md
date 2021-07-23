@@ -1,0 +1,13 @@
+## signup
+
+This command is used for signup an user account.
+
+You need to have an user account because you will need one before save templates or publish templates.
+
+To create an user account type:
+
+```command
+$ prottern signup
+``` 
+
+A signup form will appear requesting your username, password and email.
