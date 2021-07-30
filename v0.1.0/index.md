@@ -8,12 +8,13 @@
 - Commands
     - signup
     - login
+    - logout
     - save
-    - templates
+    - repository
     - describe
-    - create
+    - generate
     - delete
-    - discover
+    - explore
     - get
     - pub
     - unpub

@@ -1,0 +1,9 @@
+## delete
+
+The command **delete** deletes a template from the repository.
+
+It receives the name of the template to be removed as a parameter.
+
+```command
+$ prottern delete <template-name>
+```
