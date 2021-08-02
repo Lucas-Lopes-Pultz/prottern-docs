@@ -1,6 +1,5 @@
 # Prottern Documentation
-***
-
+---
 
 - Introduction
     - Installation
