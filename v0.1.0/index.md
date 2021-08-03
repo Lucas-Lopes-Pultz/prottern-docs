@@ -1,4 +1,4 @@
-# Prottern Documentation{@style=text-align: center;}
+# Prottern Documentation
 ---
 
 - Introduction
