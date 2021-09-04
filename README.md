@@ -1,3 +1,3 @@
-# Prottern Docs
+# Templo Docs
 
 - v0.1.0
