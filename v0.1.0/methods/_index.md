@@ -1,4 +1,4 @@
-# Commands
+# Methods
 ***
 
 - save

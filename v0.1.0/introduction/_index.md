@@ -2,5 +2,4 @@
 ---
 
 - Installation
-- First steps
-- How Templo Works
+- Getting started

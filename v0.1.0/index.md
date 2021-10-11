@@ -1,21 +1,17 @@
-# Prottern Documentation
+# Templo Documentation
 ---
 
 - Introduction
     - Installation
-    - First steps
-    - How Prottern Works
+    - Getting started
 - Commands
-    - signup
-    - login
-    - logout
     - save
-    - repository
-    - describe
-    - generate
-    - delete
-    - explore
+    - repo
+    - view
+    - gen
+    - del
     - get
-    - pub
-    - unpub
-    - profile
+    - regs
+    - mv
+    - update
+    - repos
